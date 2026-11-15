@@ -82,11 +82,10 @@ I'm an aspiring software developer passionate about building practical applicati
   </a>
 </p>
 ---
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kedharnath-dev&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" width="100%" alt="GitHub Achievements"/>
 </p>
 
 ---

@@ -53,11 +53,12 @@ I'm an aspiring software developer passionate about building practical applicati
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kedharnath-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedharnath-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=kedharnath-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kedharnath-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -69,13 +70,17 @@ I'm an aspiring software developer passionate about building practical applicati
 </p>
 
 ---
-
-## 📈 Contribution Activity
+## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kedharnath-dev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/kedharnath-dev" alt="Kedharnath's GitHub Contribution Graph" width="100%"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/kedharnath-dev">
+    View My GitHub Contributions
+  </a>
+</p>
 ---
 
 ## 🏆 GitHub Achievements
